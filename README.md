@@ -44,7 +44,7 @@ Interactive stdin commands:
 Watch user alice's home directory for changes:
 
 ```
-$ sudo ./filemon /Users/name
+$ sudo ./filemon /Users/alice
 STARTED
 CHG:/Users/alice/Library/Preferences/com.apple.AddressBook.plist.TZwyEjg - pid 303 (cfprefsd)
 CHG:/Users/alice/Library/Preferences/com.apple.AddressBook.plist.TZwyEjg - pid 303 (cfprefsd)
