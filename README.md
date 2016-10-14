@@ -64,16 +64,16 @@ CHG:/Users/alice/Library/Saved Application State/com.googlecode.iterm2.savedStat
 Watch user alice's Library folder for changes made by the 'cfprefsd' process:
 
 ```
-$ sudo ./filemon /Users/doug/Library | grep cfprefsd
+$ sudo ./filemon /Users/alice/Library | grep cfprefsd
 STARTED
-ADD:/Users/doug/Library/Preferences/com.apple.AddressBook.plist.xzapUfB - pid 303 (cfprefsd)
-CHG:/Users/doug/Library/Preferences/com.apple.AddressBook.plist.xzapUfB - pid 303 (cfprefsd)
-CHG:/Users/doug/Library/Preferences/com.apple.AddressBook.plist.xzapUfB - pid 303 (cfprefsd)
-CHG:/Users/doug/Library/Preferences/com.apple.AddressBook.plist.xzapUfB - pid 303 (cfprefsd)
-CHG:/Users/doug/Library/Preferences/com.apple.AddressBook.plist.xzapUfB - pid 303 (cfprefsd)
-DEL:/Users/doug/Library/Preferences/com.apple.AddressBook.plist.xzapUfB - pid 303 (cfprefsd)
-ADD:/Users/doug/Library/Preferences/com.apple.AddressBook.plist - pid 303 (cfprefsd)
-ADD:/Users/doug/Library/Preferences/com.apple.AddressBook.plist.oUaO4p8 - pid 303 (cfprefsd)
-CHG:/Users/doug/Library/Preferences/com.apple.AddressBook.plist.oUaO4p8 - pid 303 (cfprefsd)
-CHG:/Users/doug/Library/Preferences/com.apple.AddressBook.plist.oUaO4p8 - pid 303 (cfprefsd)
+ADD:/Users/alice/Library/Preferences/com.apple.AddressBook.plist.xzapUfB - pid 303 (cfprefsd)
+CHG:/Users/alice/Library/Preferences/com.apple.AddressBook.plist.xzapUfB - pid 303 (cfprefsd)
+CHG:/Users/alice/Library/Preferences/com.apple.AddressBook.plist.xzapUfB - pid 303 (cfprefsd)
+CHG:/Users/alice/Library/Preferences/com.apple.AddressBook.plist.xzapUfB - pid 303 (cfprefsd)
+CHG:/Users/alice/Library/Preferences/com.apple.AddressBook.plist.xzapUfB - pid 303 (cfprefsd)
+DEL:/Users/alice/Library/Preferences/com.apple.AddressBook.plist.xzapUfB - pid 303 (cfprefsd)
+ADD:/Users/alice/Library/Preferences/com.apple.AddressBook.plist - pid 303 (cfprefsd)
+ADD:/Users/alice/Library/Preferences/com.apple.AddressBook.plist.oUaO4p8 - pid 303 (cfprefsd)
+CHG:/Users/alice/Library/Preferences/com.apple.AddressBook.plist.oUaO4p8 - pid 303 (cfprefsd)
+CHG:/Users/alice/Library/Preferences/com.apple.AddressBook.plist.oUaO4p8 - pid 303 (cfprefsd)
 ```
